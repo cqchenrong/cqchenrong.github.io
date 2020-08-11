@@ -23,7 +23,7 @@ title: About
 
 ## 什么是GitHub Page
 
-首先，要知道什么是gtihub（Git、GitHub、GitLab代写）
+首先，要知道什么是gtihub（Git、GitHub、GitLab待写）
 
 GitHub上存放了项目的源代码，如果一上来就只看代码，结果就是，不做了...，为了每个学习者能看到一个简明易懂的网页，用于说明项目的一些内容，github设计了Pages功能，允许用户自定义项目首页，用来替代默认的源码列表，因此，github Pages可以被认为是用户编写的、托管在github上的静态网页。
 
